@@ -1,0 +1,10 @@
+{
+    "Author": "Tamer Tas",
+    "AppName": "electron-quick-start",
+    "Description": "A minimal Electron application",
+    "Version": "1.0.0",
+    "VersionControl": "git",
+    "License": "Apache License 2.0",
+    "RepositoryURL": "https://github.com/user/electron-quick-start",
+    "ElectronVersion": "0.36.0"
+}

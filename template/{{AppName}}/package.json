@@ -1,0 +1,28 @@
+{
+  "name": "{{AppName}}",
+  "version": "{{Version}}",
+  "description": "{{Description}}",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "{{VersionControl}}",
+    "url": "{{RepositoryURL}}"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "template"
+  ],
+  "author": "{{Author}}",
+  "license": "{{License}}",
+  "bugs": {
+    "url": "{{RepositoryURL}}/issues"
+  },
+  "homepage": "{{RepositoryURL}}#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^{{ElectronVersion}}"
+  }
+}
