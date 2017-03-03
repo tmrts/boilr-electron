@@ -10,10 +10,10 @@ You can learn more about each of these components within the [Quick Start Guide]
 
 ## Install
 Install [boilr](https://github.com/tmrts/boilr) first. then use,
-`boilr download tmrts/boilr-electron electron`
+`boilr template download tmrts/boilr-electron electron`
 
 ## Usage
-`boilr use electron <target-dir>`
+`boilr template use electron <target-dir>`
 
 ## More Information
 For more information please check [boilr](https://github.com/tmrts/boilr)
